@@ -1,4 +1,4 @@
-.header {
+.contact-header {
     background-image: url(./contactUsImgs/pet.png);
     background-position: center;
     background-repeat: no-repeat;
@@ -8,7 +8,7 @@
     border-radius: 50px;
 }
 
-.getInfo {
+.contact-getInfo {
     padding-left: 80px;
     width: 80%;
 }
@@ -17,11 +17,11 @@ hr {
     border: 1px solid black
 }
 
-.info {
+.contact-info {
     display: flex;
 }
 
-.info p {
+.contact-info p {
     padding: 10px 10px 0px 30px;
 }
 
