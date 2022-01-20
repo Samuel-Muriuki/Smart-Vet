@@ -1,0 +1,36 @@
+.header {
+    background-image: url(../contactUsImgs/pet.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 23rem;
+    background-color: #A9B18F;
+    border-radius: 50px;
+}
+
+.getInfo {
+    padding-left: 80px;
+    width: 80%;
+}
+
+hr {
+    border: 1px solid black
+}
+
+.info {
+    display: flex;
+}
+
+.info p {
+    padding: 10px 10px 0px 30px;
+}
+
+.contactForm {
+    margin: 50px;
+    padding: 50px;
+    box-sizing: border-box;
+    border: 0.3rem solid black;
+    border-radius: 50px;
+    box-shadow: 20px 20px ;
+    color: #3d7044;
+}
