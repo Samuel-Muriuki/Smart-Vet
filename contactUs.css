@@ -35,6 +35,10 @@ hr {
     color: #3d7044;
 }
 
+label span {
+  color: red;
+}
+
 /* Footer */
 .footer-container {
     display: grid;
